@@ -1,6 +1,8 @@
 # 📚 Taaghche Book Crawler
 
-This is a simple PHP-based crawler for fetching all books from [Taaghche](https://taaghche.com) by a specific publisher. The result is saved as a JSON file (`taaghche_books.json`) for further analysis or processing.
+A PHP-based web crawler for collecting structured metadata from Taaghche’s digital bookstore, specifically targeting books by a given publisher. Automatically handles pagination and exports comprehensive book details to JSON for further use in data analysis, archival, or integration with other systems.
+
+> This is a simple PHP-based crawler for fetching all books from [Taaghche](https://taaghche.com) by a specific publisher. The result is saved as a JSON file (`taaghche_books.json`) for further analysis or processing.
 
 ## 🚀 Features
 
